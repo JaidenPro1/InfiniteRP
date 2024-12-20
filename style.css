@@ -1,0 +1,47 @@
+body 
+{
+    background-color: aliceblue;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+header 
+{
+    background-color: aliceblue;
+    padding: 15px;
+    box-shadow: 0 0 3px;
+}
+
+header li 
+{
+    display: inline;
+    padding-left: 45px;
+}
+
+header li a
+{
+    color: #333;
+    text-decoration: none;
+    padding: 13px;
+}
+
+header li a
+{
+    color: #333;
+    text-decoration: none;
+    padding: 13px;
+}
+
+header li a:hover
+{
+    color: royalblue;
+}
+
+header ul Home a
+{
+    color: #fff;
+    background-color: royalblue;
+}
